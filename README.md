@@ -1,16 +1,13 @@
-██████╗██╗      █████╗ ██╗   ██╗██████╗ ███████╗
-██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██╔════╝
-██║     ██║     ███████║██║   ██║██║  ██║█████╗  
-██║     ██║     ██╔══██║██║   ██║██║  ██║██╔══╝  
-╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝███████╗
- ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
-
-███╗   ███╗███████╗███████╗███████╗ █████╗  ██████╗ ███████╗
-████╗ ████║██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝ ██╔════╝
-██╔████╔██║█████╗  ███████╗███████╗███████║██║  ███╗█████╗  
-██║╚██╔╝██║██╔══╝  ╚════██║╚════██║██╔══██║██║   ██║██╔══╝  
-██║ ╚═╝ ██║███████╗███████║███████║██║  ██║╚██████╔╝███████╗
-╚═╝     ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+```
+ _____ _                 _       ___  ___                               
+/  __ \ |               | |      |  \/  |                               
+| /  \/ | __ _ _   _  __| | ___  | .  . | ___  ___ ___  __ _  __ _  ___ 
+| |   | |/ _` | | | |/ _` |/ _ \ | |\/| |/ _ \/ __/ __|/ _` |/ _` |/ _ \
+| \__/\ | (_| | |_| | (_| |  __/ | |  | |  __/\__ \__ \ (_| | (_| |  __/
+ \____/_|\__,_|\__,_|\__,_|\___| \_|  |_/\___||___/___/\__,_|\__, |\___|
+                                                              __/ |     
+                                                             |___/      
+```
 
 Claude Message is an opinionated, yet customizable messaging framework built around the Claude Code harness. It acts as the positioning and messaging context engine for Claude Code to generate content assets – ensuring the copy always strikes a chord and is uniquely yours.
 
@@ -96,7 +93,11 @@ You can't change the main Claude Code system prompt, but you can provide a profi
 The default format provided in the sample `CLAUDE.md` file follows this structure:
 
 ```
-You are a {role} at {company}. {company} is a(n) {stage} {type} company in the {market} space. You are responsible for generating consistent, clear, and compelling messaging based on user requests. You must be well versed in the market, business, and technical landscape of {company} to be effective in this role.
+You are a {role} at {company}. {company} is a(n) {stage} {type} company in the {market} space. 
+
+You are responsible for generating consistent, clear, and compelling messaging based on user requests. 
+
+You must be well versed in the market, business, and technical landscape of {company} to be effective in this role.
 ```
 
 - {role}: the specific job function you want Claude to think like (PMM, Founder, etc.)
