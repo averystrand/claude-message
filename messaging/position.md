@@ -8,73 +8,57 @@ Use this section when performing market and competitive research. Also use this 
 
 ### Market Landscape
 
-[Instructions:
-Provide an opinionated description of the market space you operate in. Focus on scenarios, trends, inflection points, and constraints shaping buyer behavior. This should explain why the market looks the way it does today and why change is necessary.
+The API economy has exploded, yet the way companies sell these technical products remains stuck in the past. While API-first companies are building the infrastructure of the future, their go-to-market motions are often paralyzed by the "invisibility problem"—it is notoriously difficult to visualize and sell backend code. Traditional reliance on static documentation, slide decks, and generic "Hello World" examples fails to engage modern buyers, who demand to see exactly how a product will work in their specific environment before they buy. "Hypotheticals" no longer close deals; technical skepticism is at an all-time high.
 
-Claude will use this to establish relevance and urgency, especially in thought leadership, blog content, and top-of-funnel assets.]
 
-[Tips:
-– Anchor on market forces - technology shifts, operating models, regulatory changes, economic impacts, competitive moves, etc.
-– Speak to industry trends - big movements, hype cycles, converging/consolidating/dying categories, etc.
-– Introduce your unique perspective on the market today and where it's headed in your favor
-]
+Simultaneously, the pressure for efficiency has rendered the "homegrown demo" obsolete. Engineering teams can no longer afford to spend weeks building bespoke proof-of-concept environments for every prospect. The market is shifting away from resource-intensive, ad-hoc builds toward scalable, self-service platforms. The winners in this new landscape are those who can bridge the "empathy gap" instantly—empowering non-technical sellers to deliver high-fidelity, personalized, and interactive product experiences without touching a single line of code.
 
-[Format:
-2-3 short paragraphs describing the market]
 
 ### Positioning Statement
 
-[Instructions:
-Document your relative position in the market by clearly stating who you're for and why you're different. This should reflect your unique perspective on the market, not just your offering.
+For Go-to-Market teams (Sales, Solutions Engineering, Marketing) at API-first and technical SaaS companies 
 
-Claude will use this as the baseline for differentiation across messaging.]
 
-[Tips:
-– Read April Dunford's book, Obviously Awesome
-– Aim for your vision, but stay closer to reality
-– Write to the common positioning framework for Claude's understanding]
 
-[Format:
-- For (Target Audience)
-- Who (Statement of Need)
-- And Want (Statement of Expectations)
-- We are (Primary Position / Category)
-- That (Statement of Key Benefit).
-- Unlike (Alternatives)
-- We (Primary Differentiation).
-- Only Us (Unique Approach).
-- With Us (Primary Gain)].
+Who need to visualize the value of complex, "invisible" backend products to skeptical buyers 
+
+
+
+And Want to shorten sales cycles, scale technical storytelling without engineering bottlenecks, and prove product value instantly 
+
+
+
+We are the API Go-to-Market Platform 
+
+
+That transforms abstract code and documentation into tangible, interactive, and personalized product demos.
+
+
+
+Unlike static assets (slides, docs), generic frontend capture tools, or resource-heavy "homegrown" engineering builds 
+
+
+
+
+We simulate the entire product stack—combining frontend UX with deep backend logic (webhooks, auth, data transformation) and real API execution 
+
+
+
+Only Us offer an AI-powered, code-free builder that creates "live" environments capable of handling real-world complexity (idempotency, rate limiting) while remaining safe and scalable.
+
+
+
+With Us you collapse the time-to-value, empowering every rep to close deals faster by showing the "real thing" from the very first call.
 
 ### Categories in Play
 
-[Instructions:
-List the market categories you align with or intersect with. For each category, carve out a distinct profile in `/messaging/categories/[category-name].md`
+When researching specific categories in your task workflow, extract the details from files in /messaging/categories/CategorySource FilesInteractive Demo Softwareinteractive-demo-software.mdTechnical Sales Enablementtechnical-sales-enablement.mdAPI Developer Experience (DevEx)api-devex.mdProduct-Led Growth (PLG) Toolsplg-tools.md
 
-Claude will reference individual categories when performing market research, and to understand where you fit relative to the larger market space. Claude will also use this to keep messaging relevant to specific category contexts when applicable.
-]
 
-When researching specific categories in your task workflow, extract the details from files in `/messaging/categories/`
-
-| Category             | Source Files     |
-|----------------------|------------------|
-| Category A (Acronym) | category-a.md    |
-| Category B (Acronym) | category-b.md    |
-| Category C (Acronym) | category-c.md    |
 
 ### Competing Alternatives
 
-[Instructions:
-List the alternatives customers evaluate instead of choosing you. This includes vendors, DIY, and inaction. Focus on patterns of choice, not just named competitors - this is scoped to messaging, not your competitive intelligence hub. For each competing alternative, carve out a distinct profile in `/messaging/competitors/[competitor-name].md`
-
-Claude will reference specific alternatives when performing market research, and to understand where you fit relative to the competitive landscape. Claude will also use this to sharpen contrast, frame trade-offs, and message with clear differentiation.]
-
-When researching specific alternatives in your task workflow, extract the details from files in `/messaging/competitors/`
-
-| Category       | Source Files      |
-|----------------|-------------------|
-| Competitor A   | competitor-a.md   |
-| Competitor B   | competitor-b.md   |
-| Competitor C   | competitor-c.md   |
+When researching specific alternatives in your task workflow, extract the details from files in /messaging/competitors/CategorySource FilesStatus Quo (Static Assets)Reliance on slide decks, PDF documentation, and Figma mockups.status-quo-static.mdHomegrown Engineering BuildsBespoke POCs and local environments built/maintained by internal devs.homegrown-engineering.mdGeneric Screen Capture ToolsFrontend-only "click-through" tools that cannot simulate backend logic/APIs.generic-screen-capture.mdGeneric SandboxesUnmanaged, "one-size-fits-all" test environments that lack personalization and narrative guidance.
 
 ## Rules
 - The positioning statement is authoritative, but not meant to be used as explicit messaging
