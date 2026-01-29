@@ -8,66 +8,36 @@ Use this section to bring an element of storytelling into messaging and content 
 
 ### Strategic Narrative
 
-[Instructions:
-Document the full strategic narrative in a structured format for both human and Claude understanding. This should cover the full arc from market conditions to inflection points to your undeniable advantage. The structure below is guidance to ensure completeness, not a script that must be followed rigidly.
+For years, API-first companies have faced a paradox: the more powerful your product, the harder it is to see. You are selling the future infrastructure of a client’s business, yet you are forced to rely on the static tools of the past—slide decks, dense documentation, and "imagine if" conversations. This creates a "Technical Empathy Gap" where buyers struggle to trust what they cannot experience, and sellers struggle to prove value without draining engineering resources on bespoke proofs-of-concept.
 
-Claude will use this to inject storytelling, structure long-form content, and maintain a consistent differentiated narrative across assets.]
-
-[Tips:
-– Your narrative is more about your audience than it is about you
-- The stronger the inflection, the greater the urgency
-- Even with structure, write in a conversational tone to give it a natural flow]
-
-[Format:
-Use the following narrative components as structural guidance:]
+Coast exists to resolve this paradox. We believe that in the API economy, demonstration is the only true currency. By replacing abstract explanations with high-fidelity, interactive simulations that run instantly, we transform the "invisible" backend into a tangible commercial asset. We don't just help you demo; we help you collapse the time to value, proving that your solution works before the prospect even finishes their coffee
 
 #### The Scenario
-[Instructions:
-Set the scene with an attention grabbing hook that describes the current conditions your target audience is facing that indicate change is afoot.]
+We are operating in an API-first economy where the most powerful products are often the hardest to see. Selling these technical products is notoriously difficult because you cannot visualize backend code. Many companies rely on static content—documentation, slide decks, or Figma mockups—forcing prospects to mentally "decode" the value on their own.
 
 #### The Inflection
-[Instructions:
-Define the industry-wide forces and movements that are forming (or about to form) that make it clear that it would be a risk to ignore what's happening.]
+The modern buyer has changed; they are technical, skeptical, and intolerant of vaporware. They will "call you out if you talk in hypotheticals" and demand to see exactly what the integration will look like in their specific product environment, not just hear what it could look like. Without a realistic experience, trust erodes and deals stall due to a lack of clarity.
 
 #### The Status Quo
-[Instructions:
-Explain why existing and alternative approaches are insufficient despite their grand attempts. It's important to call out attempts because it means people care enough, some have taken a swing and a miss, but you're setup to be different.]
-
+Traditional responses to this pressure are failing. Reading docs and PowerPoints cannot fully convey technical value. Conversely, building custom proof-of-concept (POC) environments for every prospect is slow, unscalable, and drains weeks of engineering time. This "duct-tape" approach leaves Go-to-Market teams dependent on developers, creating bottlenecks that kill deal velocity.
 #### Our Smart Insight
-[Instructions:
-Describe the one thing you figured out that others didn't, or got wrong when they tried. This isn't to gloat, it's to gain trust that you're on to something different.]
+The solution isn't to build more product features for the sake of the demo, but to decouple the experience of the product from the engineering of the product. Prospects don't need a production build; they need a high-fidelity simulation that captures the "under-the-hood" details—payloads, webhooks, and auth headers—alongside the user experience. "Docs and slides don't close deals," and "fake it doesn't make it"—the only way to win is to provide a realistic, interactive workflow that feels authentic.
 
 #### Our Unique Approach
-[Instructions:
-Describe what you built and why it's different - whether architecture, capabilities, delivery, or experience-driven. Be explicit as there's a lot of setup to get to this point.]
+Coast is the first AI-powered demo platform designed specifically to sell, market, and implement technical products with ease. We provide a unified toolkit that stitches together frontend UX, backend workflow logic, and real API execution into one coherent environment. With Coast, teams can quickly assemble live, personalized demos that mirror actual use cases without writing custom code, utilizing AI to auto-generate content and tailor the experience to the prospect.
 
 #### Our Proof of Value
-[Instructions:
-Share tangible proof points that support the setup and your advantage. This should be aimed at the big opportunity – it could be customer quotes, analyst mentions, or community love.]
+Leading API companies are already proving this shift works. Spreedly cut their enterprise sales cycle by 47 days after adopting Coast. Middesk saw a 50% increase in conversion from website visitors to qualified leads by embedding Coast demos. Sardine shortened time-to-close by 20% by combining discovery and demo calls into a single, high-value interaction.
 
 #### Your Reason to Believe
-[Instructions:
-Give your audience something to advocate for, a realization that a perfect world is within grasp. It comes from recognizing the pain in the scenario and agreeing with the insight.]
-
+When you "collapse time to value," you fundamentally change the sales dynamic. By moving from "explaining" to "showing," you remove the cognitive load on the buyer and the technical burden on your SE team. "Work smarter, move faster, and deliver solutions proactively" becomes the new standard for technical sales.
 #### Your Undeniable Gain
-[Instructions:
-Articulate the realized value in embracing change in the direction you've set. These should be quantiative and qualitative measures that speak directly to what your audience is on the hook for and investing in.]
-
+The impact is measurable and transformative: 10x team impact for Solutions Engineers who stop building bespoke environments , and a 3x increase in likelihood for website visitors to become qualified buyers. Ultimately, you enable every seller to lead with outcomes and close deals that might otherwise get stuck in "analysis paralysis".
 #### Your Step to Action
-[Instructions:
-Close with tangible steps forward. This isn't a CTA on a website, this is your strategic narrative, so make it tied to embracing trends.]
-
+Stop relying on "patchwork slides or scattered environments". Put your prospects in the driver's seat before the first call and replace the "duct-tape demo" with a robust, scalable platform built for the API economy.
 ### Elevator Pitch
 
-[Instructions:
-Provide a short, conversational version of the strategic narrative as you would deliver it in an elevator, at a booth, or early in a call. This is meant to quickly spark interest and strike a chord for a follow up.
-
-Claude will use this as a quick-reference narrative when brevity is required or when transitioning into deeper discussion.]
-
-[Tips:
-– All bangers, no filler - keep it tight
-- Assume no context like you're starting a new chat session
-]
+Selling API products is hard because buyers can't see the value in static slides or documentation. Coast solves this by replacing expensive, custom engineering builds with an AI-powered platform that lets you create interactive, personalized demos in minutes. We help teams like Plaid and Twilio skip the "hypotheticals" and show real backend value instantly, cutting sales cycles by up to 47 days.
 
 [Format:
 2–4 sentences written in natural, spoken language]
