@@ -7,34 +7,12 @@ Use this section as root context to shape our POV and our ambition across our me
 ## Messaging Blocks
 
 ### Company Vision
-[Instructions: 
-Describe the future world your company is driving towards. Think of this as the North Star of your positioning and messaging. 
 
-Claude will use this to anchor aspirational language and long-arc narratives.]
-
-[Tips: 
-– Focus on external market forces
-– Be directional and opinionated
-– Avoid generic phrases that could be anyone
-]
-
-[Format:
-1–2 sentences describing a changed future state]
-
+We envision a future where the value of every technical product is instantly tangible, eliminating the gap between complex code and commercial success through frictionless, interactive experiences. We are driving towards an API-first economy where "showing" replaces "explaining," ensuring that software is bought, sold, and adopted based on truth rather than hypotheticals.
 
 ### Mission Statement
-[Instructions: 
-Define the concrete drumbeat your company hits every day. Value messaging will show up later, keep this elevated to action statements.
 
-Claude will use this to credibly ground your North Star vision.]
-
-[Tips:
-– Emphasize verbs and ongoing behavior
-– Align to the vision with the how
-– Avoid abstract language]
-
-[Format:
-1–2 sentences describing a continuous discipline]
+To equip every go-to-market team with the definitive platform for product storytelling, empowering them to effortlessly translate backend logic into high-fidelity, interactive narratives. We exist to make the invisible visible, enabling companies to bridge the technical empathy gap and unlock revenue by proving their solution's value from the very first interaction
 
 ## Usage Guidelines
 
