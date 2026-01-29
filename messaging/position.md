@@ -18,27 +18,15 @@ Simultaneously, the pressure for efficiency has rendered the "homegrown demo" ob
 
 For Go-to-Market teams (Sales, Solutions Engineering, Marketing) at API-first and technical SaaS companies 
 
-
-
 Who need to visualize the value of complex, "invisible" backend products to skeptical buyers 
-
-
 
 And Want to shorten sales cycles, scale technical storytelling without engineering bottlenecks, and prove product value instantly 
 
-
-
 We are the API Go-to-Market Platform 
-
 
 That transforms abstract code and documentation into tangible, interactive, and personalized product demos.
 
-
-
 Unlike static assets (slides, docs), generic frontend capture tools, or resource-heavy "homegrown" engineering builds 
-
-
-
 
 We simulate the entire product stack—combining frontend UX with deep backend logic (webhooks, auth, data transformation) and real API execution 
 
@@ -52,13 +40,26 @@ With Us you collapse the time-to-value, empowering every rep to close deals fast
 
 ### Categories in Play
 
-When researching specific categories in your task workflow, extract the details from files in /messaging/categories/CategorySource FilesInteractive Demo Softwareinteractive-demo-software.mdTechnical Sales Enablementtechnical-sales-enablement.mdAPI Developer Experience (DevEx)api-devex.mdProduct-Led Growth (PLG) Toolsplg-tools.md
+When researching specific categories in your task workflow, extract the details from files in /messaging/categories/CategorySource Files
 
+| Category | Source Files |
+| :--- | :--- |
+| Interactive Demo Software | `interactive-demo-software.md` |
+| Technical Sales Enablement | `technical-sales-enablement.md` |
+| API Developer Experience (DevEx) | `api-devex.md` |
+| Product-Led Growth (PLG) Tools | `plg-tools.md` |
 
 
 ### Competing Alternatives
 
-When researching specific alternatives in your task workflow, extract the details from files in /messaging/competitors/CategorySource FilesStatus Quo (Static Assets)Reliance on slide decks, PDF documentation, and Figma mockups.status-quo-static.mdHomegrown Engineering BuildsBespoke POCs and local environments built/maintained by internal devs.homegrown-engineering.mdGeneric Screen Capture ToolsFrontend-only "click-through" tools that cannot simulate backend logic/APIs.generic-screen-capture.mdGeneric SandboxesUnmanaged, "one-size-fits-all" test environments that lack personalization and narrative guidance.
+When researching specific alternatives in your task workflow, extract the details from files in /messaging/competitors/CategorySource Files
+
+| Category | Source Files |
+| :--- | :--- |
+| **Status Quo (Static Assets)**<br>Reliance on slide decks, PDF documentation, and Figma mockups. | `status-quo-static.md` |
+| **Homegrown Engineering Builds**<br>Bespoke POCs and local environments built/maintained by internal devs. | `homegrown-engineering.md` |
+| **Generic Screen Capture Tools**<br>Frontend-only "click-through" tools that cannot simulate backend logic/APIs. | `generic-screen-capture.md` |
+| **Generic Sandboxes**<br>Unmanaged, "one-size-fits-all" test environments that lack personalization and narrative guidance. | `generic-sandboxes.md` |
 
 ## Rules
 - The positioning statement is authoritative, but not meant to be used as explicit messaging
