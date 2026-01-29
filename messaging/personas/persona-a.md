@@ -8,8 +8,8 @@
 ## Roles & Responsibilities
 The technical bridge between product capability and customer value; they are responsible for proving the technology works during the sales cycle.
 * **Demo Creation:** Building and maintaining demo environments, often requiring custom engineering or scripting.
-* **Technical Validation:** answering deep technical questions (auth, security, integration) to win over the buyer’s engineering team.
-* **Sales Support:** joining calls to run the "technical" part of the presentation.
+* **Technical Validation:** Answering deep technical questions (auth, security, integration) to win over the buyer’s engineering team.
+* **Sales Support:** Joining calls to run the "technical" part of the presentation.
 
 ## Relevant Signals
 * **Backlog Burnout:** Complaining about a queue of demo requests or spending nights/weekends building custom POCs for prospects.
