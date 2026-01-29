@@ -1,31 +1,36 @@
-# Product A
-
-[Instructions:
-Document each product as a distinct messaging profile - one per file.]
-
-[Tips:
-– Include context that is relevant to messaging, not every product detail
-- Be explicit and clear about what the product is capable of
-- Focus value messaging on what's truly differentiated]
+# Product A: Coast Platform
 
 ## Attributes
-
-- Type (Platform, Product, Add-On, Module, Service)
-- Lifecycle (Early Access, Beta, Generally Available, Discontinued)
-- Web Link (optional): link to any public-facing web properties for the product for additional reference
-- Documentation (optional): link to any public-facing documentation for additional reference
+- **Type:** Core Platform (SaaS)
+- **Lifecycle:** Generally Available
+- **Web Link:** https://www.trycoast.com/
 
 ## Product Overview
-[1-2 paragraphs explaining what the product does and who it's for]
+The Coast Platform is an all-in-one "No-Code" environment that empowers Go-to-Market teams to build, customize, and share interactive demos for API and technical products. It serves as a centralized workbench where Solutions Engineers, Sales Reps, and Marketers can create high-fidelity simulations of their product—combining frontend user interfaces with deep backend logic—without writing a single line of code.
+
+Designed to replace the "duct-tape" stack of static slides and fragile local environments, the platform provides everything needed to visualize "invisible" software. Users can construct linear workflows, inject dynamic data for personalization, and distribute demos via public links or website embeds.
 
 ## Positioning Statement
-[1-2 sentences that dictate how this product fits in the market]
+Coast is the first AI-powered demo platform designed specifically to sell, market, and implement technical products, bridging the gap between abstract API documentation and tangible customer value.
 
 ## Critical Capabilities
-[Expanded bullet points detailing the most critical capabilities that drive value for this product – it's not a feature matrix]
+* **AI-Powered Builder:** Accelerate demo creation using AI to auto-generate workflow steps, realistic data sets, and narrative content, reducing build time from days to minutes.
+* **Full-Stack Simulation:** Go beyond simple screen captures by simulating real backend logic, including webhooks, API responses, authentication headers, and data transformations.
+* **Dynamic Personalization:** Instantly tailor demos for any prospect using variable injection to display their company name, currency, or industry-specific data throughout the workflow.
+* **Smart Mocking & Live Execution:** Choose between hitting live API endpoints (sandboxes) or using intelligent mocks to simulate responses, ensuring reliability and data safety.
+* **Omnichannel Distribution:** Share demos via tracked individual links for sales follow-ups or embed them directly onto marketing websites for lead generation.
 
 ## Technical Details
-[More in-depth details about how it works, how it's deployed, etc. - dependent on the nature of the product]
+* **Cloud-Native Architecture:** Fully hosted SaaS solution with 99.99% availability, eliminating the need for local server setup or port forwarding.
+* **Protocol Support:** Native support for REST, GraphQL, and complex API patterns (polling, webhooks, async processing).
+* **Data Handling:** Capable of simulating stateful interactions and passing data context between steps (e.g., Step 1 generates an ID that Step 2 uses).
 
 ## Value Messages
-[3-5 specific messages that convey why your product is different than the rest, and what unique value it delivers]
+**Make the Invisible Visible**
+Transform abstract backend code into a visual, interactive experience that stakeholders can see and touch, instantly proving technical capability.
+
+**Build Once, Reuse Everywhere**
+Create a master library of modular demo templates that can be cloned and personalized by any rep in seconds, ending the cycle of one-off builds.
+
+**Demo Without Dependencies**
+Remove the engineering bottleneck by giving GTM teams a self-sufficient toolset to create and edit technical demos independently.
