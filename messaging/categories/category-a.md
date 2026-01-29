@@ -1,30 +1,18 @@
-# Category A (Acronym)
-
-[Instructions:
-For this market category, define your current position and your strategic intent.]
-
-[Tips:
-– Be clear about direct and adjacent positioning
-- It's okay for there to be a proverbial venn diagram - this is for context
-– Be honest about your relative position - this isn't a pitch]
+# Category A: Interactive Demo Software
 
 ## Attributes
-
-- Maturity (Emerging, Growing, Peak, Declining, Established)
-- Coverage (Broad, Specialized)
-- Related Categories (Adjacent, Converging, Consolidating)
+- **Maturity:** Growing (Rapidly adopting in SaaS)
+- **Coverage:** Broad (Spans Marketing, Sales, Product)
+- **Related Categories:** Sales Enablement, Product Marketing, Digital Adoption Platforms
 
 ## Category Overview
-[1-2 sentence description of the category]
+Software that enables companies to create "guided" or simulated versions of their product experience for prospects to explore without a live account.
 
 ## Our Solution
-[1-2 sentence description of your solution]
+We provide a specialized interactive demo platform that goes beyond frontend clicking to simulate the backend logic, API responses, and data flows essential for selling technical products.
 
 ## Current Position
-[1 sentence statement with relative position – Outside, New Entrant, Visionary, Challenger, Leader]
+**Challenger (Specialized)** — Challenging generic "frontend-only" leaders (like Walnut/Navattic) by owning the "Technical/API" niche they cannot serve.
 
 ## Strategic Aim
-[1 sentence statement with the end goal - Lead, Differentiate, Converge, Consume]
-
-
-
+**Differentiate & Lead** — Establish "API Demos" as a distinct, superior sub-category where frontend capture is considered insufficient.
